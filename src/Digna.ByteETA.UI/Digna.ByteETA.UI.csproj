@@ -14,10 +14,7 @@
 		<EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
 	</PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ByteETA.Core\ByteETA.Core.csproj">
-      <Private>True</Private>
-    </ProjectReference>
-  </ItemGroup>
-
+	<ItemGroup>
+	  <ProjectReference Include="..\Digna.ByteETA.Core\Digna.ByteETA.Core.csproj" />
+	</ItemGroup>
 </Project>

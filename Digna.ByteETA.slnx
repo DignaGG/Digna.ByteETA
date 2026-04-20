@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Digna.ByteETA.Core/Digna.ByteETA.Core.csproj" />
+  <Project Path="src/Digna.ByteETA.UI/Digna.ByteETA.UI.csproj" />
+</Solution>
