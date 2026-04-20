@@ -1,6 +1,6 @@
-# ByteETA - Download Time Calculator
+# Digna.ByteETA - Download Time Calculator
 
-ByteETA v2.0 represents a complete architectural evolution. Transitioning from basic procedural scripts to a robust Object-Oriented Programming (OOP) structure, this version focuses on mathematical precision and system stability
+Digna.ByteETA v2.0 represents a complete architectural evolution. Transitioning from basic procedural scripts to a robust Object-Oriented Programming (OOP) structure, this version focuses on mathematical precision and system stability
 
 ##🚀 What's New in v2.0 (The OOP Era)
 **Refactored Engine**: Implemented CalculatorService to separate business logic from the UI .
